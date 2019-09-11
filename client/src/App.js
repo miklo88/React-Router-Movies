@@ -12,7 +12,9 @@ const App = () => {
   return (
     <div>
       <SavedList list={savedList} />
-      <div>Replace this Div with your Routes</div>
+      <Routes></Routes> 
+      <div>
+        Replace this Div with your</div>
     </div>
   );
 };
